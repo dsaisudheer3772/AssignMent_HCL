@@ -1,0 +1,15 @@
+D:\Learning\concepts\HCL_AssignMent\bin\Debug\net6.0\HCL_AssignMent.exe
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.csproj.AssemblyReference.cache
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.AssemblyInfoInputs.cache
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.AssemblyInfo.cs
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.csproj.CoreCompileInputs.cache
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.dll
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\refint\HCL_AssignMent.dll
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.pdb
+D:\Learning\concepts\HCL_AssignMent\bin\Debug\net6.0\HCL_AssignMent.deps.json
+D:\Learning\concepts\HCL_AssignMent\bin\Debug\net6.0\HCL_AssignMent.runtimeconfig.json
+D:\Learning\concepts\HCL_AssignMent\bin\Debug\net6.0\HCL_AssignMent.dll
+D:\Learning\concepts\HCL_AssignMent\bin\Debug\net6.0\HCL_AssignMent.pdb
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\HCL_AssignMent.genruntimeconfig.cache
+D:\Learning\concepts\HCL_AssignMent\obj\Debug\net6.0\ref\HCL_AssignMent.dll
